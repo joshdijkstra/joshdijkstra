@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+My name is Josh, I'm currently a frontend developer that loves data science. Check out some of my projects while you are here.
+
+* [![React][React.js]][React-url]
+* [![Angular][Angular.io]][Angular-url]
 <!--
 **joshdijkstra/joshdijkstra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
