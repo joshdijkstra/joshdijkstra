@@ -1,4 +1,5 @@
-  ![ezgif com-video-to-gif](https://user-images.githubusercontent.com/74965856/217321763-6e8d2dba-31f9-45f6-9d16-ac579c9ce2fc.gif)
+ <div align="center">
+ <img src="https://user-images.githubusercontent.com/74965856/217321763-6e8d2dba-31f9-45f6-9d16-ac579c9ce2fc.gif">
     
 
 ### Hi there 👋
@@ -21,3 +22,14 @@ My name is Josh, I'm a frontend developer that loves data science. Check out som
   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="pandas" alt="pandas" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original-wordmark.svg" title="tensorflow" alt="tensorflow" width="40" height="40"/>&nbsp;
 </div>
+
+---
+
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=joshdijkstra&theme=dark&background=000000)](https://git.io/streak-stats)
+
+---
+### :fire: My Top Languages :
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joshdijkstra&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+  
+  <div>
